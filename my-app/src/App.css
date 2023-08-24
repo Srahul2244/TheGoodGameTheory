@@ -1,0 +1,21 @@
+
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+.search {
+  margin-bottom: 2rem;
+}
+
+.beer-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem;
+  text-align: center;
+}
+
+img {
+  max-width: 100px;
+  margin-bottom: 0.5rem;
+}
